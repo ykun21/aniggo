@@ -18,9 +18,9 @@ Anime streaming app built with [Flutter](https://github.com/flutter/flutter) and
     <td>Anime List</td>
   </tr>
   <tr>
-    <td><img src="screenshots/flutter_01.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_06.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_02.png" width=250 height=540></td>
+    <td><img src="screenshots/flutter_01.png" width=250></td>
+    <td><img src="screenshots/flutter_06.png" width=250></td>
+    <td><img src="screenshots/flutter_02.png" width=250></td>
   </tr>
   <tr>
     <td>Filter</td>
@@ -28,9 +28,9 @@ Anime streaming app built with [Flutter](https://github.com/flutter/flutter) and
     <td>Settings</td>
   </tr>
   <tr>
-    <td><img src="screenshots/flutter_03.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_04.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_05.png" width=250 height=540></td>
+    <td><img src="screenshots/flutter_03.png" width=250></td>
+    <td><img src="screenshots/flutter_04.png" width=250></td>
+    <td><img src="screenshots/flutter_05.png" width=250></td>
   </tr>
 </table>
 <br>
@@ -43,9 +43,9 @@ Anime streaming app built with [Flutter](https://github.com/flutter/flutter) and
     <td>Anime Detail</td>
   </tr>
   <tr>
-    <td><img src="screenshots/flutter_07.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_09.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_08.png" width=250 height=540></td>
+    <td><img src="screenshots/flutter_07.png" width=250></td>
+    <td><img src="screenshots/flutter_09.png" width=250></td>
+    <td><img src="screenshots/flutter_08.png" width=250></td>
   </tr>
   <tr>
     <td>Filter</td>
@@ -53,8 +53,8 @@ Anime streaming app built with [Flutter](https://github.com/flutter/flutter) and
     <td>Settings</td>
   </tr>
   <tr>
-    <td><img src="screenshots/flutter_10.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_12.png" width=250 height=540></td>
-    <td><img src="screenshots/flutter_11.png" width=250 height=540></td>
+    <td><img src="screenshots/flutter_10.png" width=250></td>
+    <td><img src="screenshots/flutter_12.png" width=250></td>
+    <td><img src="screenshots/flutter_11.png" width=250></td>
   </tr>
 </table>
