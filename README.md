@@ -34,6 +34,7 @@ Anime streaming app built with [Flutter](https://github.com/flutter/flutter) and
   </tr>
 </table>
 <br>
+
 ## Screenshots Dark mode
 <table>
   <tr>
